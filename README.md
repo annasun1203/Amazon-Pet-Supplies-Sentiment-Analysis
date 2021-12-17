@@ -1,6 +1,6 @@
 # Amazon-Pet-Supplies-Sentiment-Analysis
 
-Build a classification model used to determine whether a bot will reach out to a customer.
+Objective: building a classification model to determine whether a bot should reach out to a customer.
 
 To access entire dataset, visit https://nijianmo.github.io/amazon/index.html
 
